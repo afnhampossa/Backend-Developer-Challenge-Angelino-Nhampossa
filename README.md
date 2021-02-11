@@ -14,3 +14,11 @@ Para o teste da minha API usei o postman (https://www.postman.com/), pois permit
 - Para modificar os dados de um país anteriormente criado, usa-se o seguinte (*path: "/api/paises/actualizar/{identififcador}"*), neste caso o identificador será substituido pelo id do país que se pretende modificar (*exemplo:"/api/paises/actualizar/2"*);
 - Para eliminar um país anteriormente criado, usa-se o seguinte (*path:"/api/paises/apagar/{identififcador}"*), passando por parámetro o id do que se pretende eliminar;
 - Para ordenar a lista dos países por qualquer uma das suas propriedades, criei dois métodos, onde um serve para ordenar de forma crescente (*path:"/api/paises/ordenar_asc/{atributo}"*) e o outro ordena de forma decrescente (*path: "/api/paises/ordenar_desc/{atributo}"*). O 'atributo' representa a propriedade escolhida para o ordenamento que será passado como paramêtro, (*exemplo: "/api/paises/ordenar_asc/nome"*) neste caso lista será ordenada pelo nome dos países.
+
+# Informações pessoais
+Sou recém formado pela Universidade Zambeze, nos últimos tempos tenho trabalhado como freelancer no Brasil remotamente, com mais foco em desenvolvimento *WEB* e *MOBILE*.
+- Mais informações estão disponíveis no meu website:http://angelino.actecn.com
+- Conta do Facebook; https://web.facebook.com/angelinonhampossa
+- Conta do Linked: https://www.linkedin.com/in/angelino-fernando-nhampossa-9a040a204/
+- Meu Whatsapp: wa.me/258846532574
+- Meu contacto: (+258) 846532574
