@@ -20,5 +20,5 @@ Sou recém formado pela Universidade Zambeze, nos últimos tempos tenho trabalha
 - Mais informações estão disponíveis no meu website:http://angelino.actecn.com
 - Conta do Facebook; https://web.facebook.com/angelinonhampossa
 - Conta do Linked: https://www.linkedin.com/in/angelino-fernando-nhampossa-9a040a204/
-- Meu Whatsapp: wa.me/258846532574
+- Meu Whatsapp: https://wa.me/258846532574
 - Meu contacto: (+258) 846532574
